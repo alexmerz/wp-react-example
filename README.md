@@ -115,5 +115,3 @@ with `wp_add_inline_script()`.
 * In your Rest API calls add the nonce either as a query parameter *_wpnonce* or as an request header with the name *X-WP-Nonce*.
 
 *Author:* *Alexander Merz, last updated 02-01-2023*
-
-![ ](https://vg07.met.vgwort.de/na/a29975ad96304e8c81c5a5d30cba0aeb)
