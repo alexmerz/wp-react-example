@@ -1,6 +1,6 @@
 # Tutorial: How to use an React app in the WordPress backend with authorized access to the Rest API
 
-Using React and the WP Rest API in the WordPress backend is a great way to improve the user experience and also makes developement faster.
+Using React and the WP Rest API in the WordPress backend is a great way to improve the user experience and also makes development faster.
 But it is also a little bit tricky to implement, because the WP architecture is still somewhat old school in some parts and assumes you are always rendering
 static web pages on the server side. So what we have to learn and handle in this tutorial are the following things:
 
